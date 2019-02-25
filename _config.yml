@@ -1,0 +1,20 @@
+# Site settings
+title: 这是一个标题
+#email: your-email@domain.com
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Sidebar settings
+description: 毛主席：贵有恒，何必三更起五更眠；最无益，只怕一日曝十日寒。
+
+# Social icons
+#facebook: username
+#linkedin: username
+#github: username
+#deviantart: username
+#codepen: username
+
+footer: © Taken theme
+
+# Build settings
+markdown: kramdown
