@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example content"
+title:  "Mysql报错注入原理分析(count()、rand()、group by)"
 date:   2016-05-12 22:02:01 -0500
 comments: true
 categories: jekyll
